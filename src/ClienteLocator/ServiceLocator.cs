@@ -1,6 +1,4 @@
-﻿
-
-using Rotina.Application;
+﻿using Rotina.Application;
 using Rotina.Application.Interface;
 using Rotina.Domain.Interfaces;
 using Rotina.Domain.Services;

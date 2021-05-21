@@ -18,6 +18,5 @@ namespace Rotina.Infra.Context
             modelBuilder.Entity<Cliente>().ToTable("Cliente");// classe que localiza o banco;
             base.OnModelCreating(modelBuilder);
         }
-
     }
 }
